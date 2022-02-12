@@ -7,6 +7,17 @@ export default function App() {
       
       <Dictionary />
 
+      <footer>
+        This project was coded by{""} <a href="https://github.com/Fiorlore"
+        target="_blank"
+        rel="noopener noreferrer">
+        Anna Kwiatkowska</a> 
+        {""} and is open-sourced on {""} 
+        <a href="https://github.com/Fiorlore/dictionary-project"
+        target="_blank"
+        rel="noopener noreferrer">
+        Git-Hub</a>
+      </footer>
     </div>
   );
 }
